@@ -33,7 +33,8 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            //href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="http://localhost:3000/mypages/firstpage"
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
